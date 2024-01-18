@@ -14,7 +14,7 @@ containerPort: 80
 service:
   type: NodePort
   port: 80
-  nodeport: 8083
+  nodeport: 8084
 
 ingress:
   enabled: false
